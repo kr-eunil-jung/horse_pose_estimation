@@ -1,6 +1,5 @@
 # [ADK2022] 최우수상
-![시상식](![image](https://github.com/user-attachments/assets/221be4ba-46be-4dee-b6c1-33492bb8e345)
-
+![시상식](https://github.com/user-attachments/assets/221be4ba-46be-4dee-b6c1-33492bb8e345)
 [관련 기사](https://www.dailyonehealth.com/news/articleView.html?idxno=2579)
 
 # Installation
